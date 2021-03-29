@@ -14,11 +14,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/souzadavid" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="souzadavid" /></a>
-<a href="https://twitter.com/eusouzadavid" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="eusouzadavid" /></a>
+<a href="https://twitter.com/eusouzadavid" target="blank"><img align="center" src="https://img.shields.io/badge/eusouzadavid%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="eusouzadavid" /></a>
 <a href="https://fb.com/eusouzadavid" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="eusouzadavid" /></a>
 <a href="https://instagram.com/wtfsouza" target="blank"><img align="center" src="https://img.shields.io/badge/wtfsouza%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="wtfsouza" /></a>
 <a href="https://www.youtube.com/c/uc39z9ty0zyxf0paru4tuwsw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="uc39z9ty0zyxf0paru4tuwsw" /></a>
-<a href="https://discord.gg/vbdwTh2" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="vbdwTh2" /></a>
+<a href="https://discord.gg/vbdwTh2" target="_blank"><img align="center" src="https://img.shields.io/badge/VALHALLA%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="vbdwTh2" /></a>
+<a href="https://twitch.tv/souza7" target="_blank"><img align="center" src="https://img.shields.io/badge/SOUZA7%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white" alt="SOUZA7" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
