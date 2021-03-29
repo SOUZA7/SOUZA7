@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/souzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="souzadavid" height="30" width="40" /></a>
-<a href="https://twitter.com/eusouzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eusouzadavid" height="30" width="40" /></a>
-<a href="https://fb.com/eusouzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="eusouzadavid" height="30" width="40" /></a>
-<a href="https://instagram.com/wtfsouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wtfsouza" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc39z9ty0zyxf0paru4tuwsw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc39z9ty0zyxf0paru4tuwsw" height="30" width="40" /></a>
-<a href="https://discord.gg/vbdwTh2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="vbdwTh2" height="30" width="40" /></a>
+<a href="https://codepen.io/souzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="souzadavid" height="30" width="40" /></a>
+<a href="https://twitter.com/eusouzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" alt="eusouzadavid" height="30" width="40" /></a>
+<a href="https://fb.com/eusouzadavid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="eusouzadavid" height="30" width="40" /></a>
+<a href="https://instagram.com/wtfsouza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="wtfsouza" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uc39z9ty0zyxf0paru4tuwsw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" alt="uc39z9ty0zyxf0paru4tuwsw" height="30" width="40" /></a>
+<a href="https://discord.gg/vbdwTh2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" alt="vbdwTh2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
